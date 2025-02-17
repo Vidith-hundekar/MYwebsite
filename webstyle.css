@@ -1,0 +1,38 @@
+body {
+    background-image: url('vid.png');
+    background-size: cover; /* Makes sure the image covers the whole page */
+    background-position: center; /* Centers the background image */
+    background-attachment: fixed; /* Keeps the image fixed when scrolling */
+}
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 10px;
+  margin: 20px;
+}
+          header{
+            text-align: center;
+            padding: 5px;
+            background-color: black;
+            color: aqua;
+            font-size:40px ;
+           } 
+           nav{
+            background-color: gray;
+           }
+           nav a{
+            font-size: 25px;
+            color:aqua ;
+            text-decoration: none;
+            margin-left: 10%;
+            word-spacing: 10%;
+           }
+           box{
+            width: 40%;
+            
+            background-color: black;
+            color:greenyellow;
+            font-size: 16x;
+           }
+
